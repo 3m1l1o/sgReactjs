@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 3px;
+}
+div.hero-body{
+  display: flex;
+  text-align: end;
+  justify-content: center;
+  margin-left: 30px;
+}
+div.columns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
